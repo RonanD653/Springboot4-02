@@ -1,5 +1,6 @@
-package com.springboot4.demo;
+package com.springboot4.demo.rest;
 
+import com.springboot4.demo.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
